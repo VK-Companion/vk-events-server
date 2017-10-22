@@ -1,0 +1,27 @@
+{
+  "name": "vk-evennts-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VK-Companion/vk-evennts-server.git"
+  },
+  "author": "VK-Companion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VK-Companion/vk-evennts-server/issues"
+  },
+  "homepage": "https://github.com/VK-Companion/vk-evennts-server#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "get-image-colors": "^1.8.1",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7",
+    "sha256": "^0.2.0",
+    "vkapi-lib": "^1.5.0"
+  }
+}
